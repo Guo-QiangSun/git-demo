@@ -1,2 +1,3 @@
 git回来
 SSH
+push
